@@ -96,5 +96,6 @@ Have questions or want to collaborate?
 
 ---
 
-> *Empowering farmers from the soil beneath to the soul within – CropXon.*
+> *Empowering farmers from the soil beneath to the soul within – CropXon.*<img width="1024" height="1024" alt="cropxon-logo-1" src="https://github.com/user-attachments/assets/75dc369a-f266-4dcd-92f4-8a8ad79cce87" />
+
 
